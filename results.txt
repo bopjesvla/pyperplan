@@ -1,0 +1,126 @@
+lmcut
+astar
+2017-04-22 20:55:22,525 INFO     30 Nodes expanded
+lmcut
+wastar
+2017-04-22 20:55:22,767 INFO     30 Nodes expanded
+lmcut
+gbf
+2017-04-22 20:55:23,006 INFO     30 Nodes expanded
+lmcut
+bfs
+2017-04-22 20:55:23,178 INFO     30 Nodes expanded
+lmcut
+ehs
+2017-04-22 20:55:23,401 INFO     30 Nodes expanded
+lmcut
+ids
+2017-04-22 20:55:23,578 INFO     31 Nodes expanded
+blind
+astar
+2017-04-22 20:55:23,748 INFO     30 Nodes expanded
+blind
+wastar
+2017-04-22 20:55:23,916 INFO     30 Nodes expanded
+blind
+gbf
+2017-04-22 20:55:24,085 INFO     30 Nodes expanded
+blind
+bfs
+2017-04-22 20:55:24,257 INFO     30 Nodes expanded
+blind
+ehs
+2017-04-22 20:55:24,452 INFO     30 Nodes expanded
+blind
+ids
+2017-04-22 20:55:24,628 INFO     31 Nodes expanded
+landmark
+astar
+2017-04-22 20:55:24,813 INFO     30 Nodes expanded
+landmark
+wastar
+2017-04-22 20:55:24,986 INFO     30 Nodes expanded
+landmark
+gbf
+2017-04-22 20:55:25,161 INFO     27 Nodes expanded
+landmark
+bfs
+2017-04-22 20:55:25,328 INFO     30 Nodes expanded
+landmark
+ehs
+2017-04-22 20:55:25,511 INFO     30 Nodes expanded
+landmark
+ids
+2017-04-22 20:55:25,685 INFO     31 Nodes expanded
+hadd
+astar
+2017-04-22 20:55:25,863 INFO     24 Nodes expanded
+hadd
+wastar
+2017-04-22 20:55:26,045 INFO     24 Nodes expanded
+hadd
+gbf
+2017-04-22 20:55:26,226 INFO     24 Nodes expanded
+hadd
+bfs
+2017-04-22 20:55:26,404 INFO     30 Nodes expanded
+hadd
+ehs
+2017-04-22 20:55:26,586 INFO     29 Nodes expanded
+hadd
+ids
+2017-04-22 20:55:26,762 INFO     31 Nodes expanded
+hff
+astar
+2017-04-22 20:55:26,944 INFO     30 Nodes expanded
+hff
+wastar
+2017-04-22 20:55:27,130 INFO     30 Nodes expanded
+hff
+gbf
+2017-04-22 20:55:27,311 INFO     24 Nodes expanded
+hff
+bfs
+2017-04-22 20:55:27,498 INFO     30 Nodes expanded
+hff
+ehs
+2017-04-22 20:55:27,677 INFO     30 Nodes expanded
+hff
+ids
+2017-04-22 20:55:27,852 INFO     31 Nodes expanded
+hmax
+astar
+2017-04-22 20:55:28,034 INFO     30 Nodes expanded
+hmax
+wastar
+2017-04-22 20:55:28,218 INFO     30 Nodes expanded
+hmax
+gbf
+2017-04-22 20:55:28,402 INFO     30 Nodes expanded
+hmax
+bfs
+2017-04-22 20:55:28,578 INFO     30 Nodes expanded
+hmax
+ehs
+2017-04-22 20:55:28,758 INFO     30 Nodes expanded
+hmax
+ids
+2017-04-22 20:55:28,932 INFO     31 Nodes expanded
+hsa
+astar
+2017-04-22 20:55:29,115 INFO     30 Nodes expanded
+hsa
+wastar
+2017-04-22 20:55:29,303 INFO     30 Nodes expanded
+hsa
+gbf
+2017-04-22 20:55:29,507 INFO     30 Nodes expanded
+hsa
+bfs
+2017-04-22 20:55:29,677 INFO     30 Nodes expanded
+hsa
+ehs
+2017-04-22 20:55:29,859 INFO     30 Nodes expanded
+hsa
+ids
+2017-04-22 20:55:30,034 INFO     31 Nodes expanded
